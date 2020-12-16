@@ -1,0 +1,21 @@
+feature,median,mean,variance
+"Access to electricity, rural (% of rural population) [EG.ELC.ACCS.RU.ZS]",98.47164077,75.256779101459,1228.1355320828368
+Adjusted savings: particulate emission damage (% of GNI) [NY.ADJ.DPEM.GN.ZS],0.267191243,0.4597515940710382,0.23809461170759652
+"Birth rate, crude (per 1,000 people) [SP.DYN.CBRT.IN]",18.858,21.236530054644813,101.25458201969609
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total) [SH.DTH.COMM.ZS]",12.7,22.257923497267747,412.130033027082
+"Cause of death, by non-communicable diseases (% of total) [SH.DTH.NCOM.ZS]",74.8,68.75081967213113,479.3260295442263
+Domestic general government health expenditure per capita (current US$) [SH.XPD.GHED.PC.CD],168.9285583,661.8065560432458,1406087.675803692
+Individuals using the Internet (% of population) [IT.NET.USER.ZS],48.05227375,48.08633325609835,817.7975610117077
+Lifetime risk of maternal death (%) [SH.MMR.RISK.ZS],0.142537776,0.7325305367158464,1.592812402490165
+Lifetime risk of maternal death (1 in: rate varies by country) [SH.MMR.RISK],700.0,3573.2349726775956,39295986.389539436
+"Maternal mortality ratio (modeled estimate, per 100,000 live births) [SH.STA.MMRT]",55.0,165.07650273224044,56560.14796132828
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%) [SH.DYN.NCOM.FE.ZS]",15.9,16.045901639344258,30.97645289137095
+"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population) [SH.STA.AIRP.P5]",68.6,92.21256830601094,5174.570885125797
+"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population) [SH.STA.AIRP.FE.P5]",55.0,81.7431693989071,4963.609499789827
+"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population) [SH.STA.AIRP.MA.P5]",83.0,104.7431693989071,5622.378730559058
+"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population) [SH.STA.POIS.P5.FE]",0.4,0.8775956284153,0.8611985828379269
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population) [SH.STA.WASH.P5]",1.3,12.499453551912552,433.2737909085453
+People using at least basic drinking water services (% of population) [SH.H2O.BASW.ZS],95.1452199,86.6412338336612,280.0369963693267
+People using at least basic sanitation services (% of population) [SH.STA.BASS.ZS],88.35525906,74.04037585813658,860.4463594061987
+"People using at least basic sanitation services, urban (% of urban population) [SH.STA.BASS.UR.ZS]",91.51075875,78.06771243983607,622.5830462527564
+Prevalence of anemia among children (% of children under 5) [SH.ANM.CHLD.ZS],31.3,36.51311475409836,332.208618266979
